@@ -1,0 +1,6 @@
+{
+  "name": "중학교 기술과 롤링볼 시뮬레이터",
+  "description": "중학교 기술교과를 위한 가로지레, 세로지레, 물레방아, 다중 공 시뮬레이션 및 교사의 학습안내와 레일 커스텀 편집 보완 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
